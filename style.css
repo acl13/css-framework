@@ -1,0 +1,5 @@
+div {
+  box-sizing: border-box;
+  height: 50px;
+  border: 1px solid red;
+}
