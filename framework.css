@@ -65,6 +65,12 @@
   width: 83.33333333%;
 }
 
+.col-11 {
+  box-sizing: border-box;
+  float: left;
+  width: 91.66666666%;
+}
+
 .row:before {
   display: table;
   content: "";
